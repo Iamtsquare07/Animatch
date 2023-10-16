@@ -39,6 +39,7 @@ h1 {
     color: rgba(255, 217, 0, 0.61);
     font-family: 'Croissant One', cursive;
     margin-top: -5px;
+    font-size: 5vw;
 }
 
 button {
@@ -83,6 +84,10 @@ button {
         width: 95%;
         height: 400px;
         margin-left: 0;
+    }
+
+    h1 {
+        font-size: 30px;
     }
 
     .each {
